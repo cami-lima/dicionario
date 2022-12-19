@@ -33,7 +33,7 @@ section{
     width: 100%;
 }
 
-div{
+.biografia{
     display: inline-block;
     margin: 10px;
     border: 1px solid #000;
@@ -62,8 +62,8 @@ img{
 }
 
 details{
-    height: 300px;
-    width: auto;
+    height: auto;
+    width: 300px;
     display: inline-block;
 }
 
